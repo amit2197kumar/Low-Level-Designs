@@ -491,4 +491,11 @@ class Game {
 ```
 Find Code : [Chess LLD Code](https://ide.geeksforgeeks.org/l9scBxW2gW)
 
+## Reference:
+
+1. [Logicmojo.com : Design Chess](https://youtu.be/yBsWza2039o)
+2. [Udit Agarwal : Design Chess](https://youtu.be/RVHNcng0oF0)
+3. [Grokking the Object Oriented Design Interview](https://github.com/himanshukr-nsit/Object-Oriented-Design-Pattern-Interview/blob/master/2.%20Object%20Oriented%20Design%20Case%20Studies/11.%20Design%20Chess/1.1Design%20Chess%20-%20Grokking%20the%20Object%20Oriented%20Design%20Interview.html)
+4. [Geeksforgeeks : Design Chess](https://www.geeksforgeeks.org/design-a-chess-game/)
+
 Original Post at [Notion](https://www.notion.so/Design-Chess-d467c71edda04e8d9554cadb26baee9c)
