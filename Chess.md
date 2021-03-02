@@ -489,7 +489,7 @@ class Game {
     }
 }
 ```
-Find Code : [Chess LLD Code](https://ide.geeksforgeeks.org/l9scBxW2gW)
+Complete Code : /Code/[Chess LLD.java](https://github.com/kumar2197/OOPS-LLD/blob/master/Code/Chess%20LLD.java)
 
 ## Reference:
 
