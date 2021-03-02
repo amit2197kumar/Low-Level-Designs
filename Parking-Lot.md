@@ -663,3 +663,5 @@ Complete Code : /Code/[Parking Lot LLD.java](https://github.com/kumar2197/OOPS-L
 3. [System Design Interview Question: DESIGN A PARKING LOT](https://youtu.be/koNq99nOV88) (Reach Goals)
 4. [Design a Parking Lot](https://www.educative.io/courses/grokking-the-object-oriented-design-interview/gxM3gRxmr8Z) (Educative)
 5. [Parking lot:- low-level design](https://medium.com/@abhigulve06/parking-lot-low-level-design-in-java-2be46101daec)
+
+Original Post on [Notion](https://www.notion.so/Design-Parking-Lot-cf4958da3a354a22b0eedd460204af99)
